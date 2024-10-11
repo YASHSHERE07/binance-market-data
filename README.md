@@ -22,7 +22,7 @@ A real-time cryptocurrency charting application built with React, Redux Toolkit,
 
    ```bash
    git clone https://github.com/YASHSHERE07/binance-market-data.git
-   cd crypto-market-viewer
+   cd binance-market-data
 
 2. **Install dependencies**
 
